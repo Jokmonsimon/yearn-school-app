@@ -8,7 +8,7 @@ const Header = () => {
         <a className="navbar-brand" href="/">
           <div className="d-flex">
             <img src={icon} alt="logo" className="mr-2" />
-            <div>Yearn</div>
+            <div className="fs-1">Yearn</div>
           </div>
         </a>
       </div>
